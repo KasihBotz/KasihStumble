@@ -2,12 +2,14 @@
 Jangan pake terlalu bruntal ya!!
 
 Aplikasi yang di gunakan 
+
 1.Termux
+
 2.httpcanary
 
 -httpcanary 
 
-bisa kalian liat di YouTube caranya
+bisa kalian liat di YouTube cara ya!!!
 
 -Termux
 
